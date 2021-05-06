@@ -1,7 +1,7 @@
 ### Hello ! 👋
 I am Clarisse, a Computer Science student currently studying in [Epita](https://www.epita.fr), Rennes, France.
 
-### About me 🦱
+### About me 😀
 
 - I love math 📖
 - I am very interested by embedded systems and aerospace/aeronautics ✈
