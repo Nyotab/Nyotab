@@ -27,6 +27,7 @@ I don't have a lot of them for the moment but here is the one I am currently wor
 - [Green Data](https://github.com/ThePlotTeam/GreenDataProject)
 
 It is a Website quite similar to [OpenFoodFacts](https://openfoodfacts.org) but that focuses on products' packaging and recycling 
+
 **Language:** Python 3     **Framework:** Django
 
 ### Some stats 🧾
