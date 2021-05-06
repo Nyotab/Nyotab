@@ -1,4 +1,5 @@
-### Hello ! 👋
+### Hello, welcome ! 👋
+---
 I am Clarisse, a Computer Science student currently studying in [Epita](https://www.epita.fr), Rennes, France.
 
 ### About me 😀
