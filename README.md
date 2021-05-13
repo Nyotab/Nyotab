@@ -16,7 +16,7 @@ I am Clarisse, a Computer Science student currently studying in [Epita](https://
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-be2edd?style=flat-square&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-E10098?style=flat-square&logo=c#&logoColor=white" />
-  <img alt="Python 3" src="https://img.shields.io/badge/-Python%203-F7B93E?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python 3" src="https://img.shields.io/badge/-Python%203-F7B93E?style=flat-square&logo=python&logoColor=blue" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
@@ -33,4 +33,7 @@ It is a Website quite similar to [OpenFoodFacts](https://openfoodfacts.org) but 
 
 ### Some stats 🧾
 
-![Nyotab github stats](https://github-readme-stats.vercel.app/api?username=Nyotab&show_icons=true&hide_border=true)
+![Nyotab github stats](https://github-readme-stats.vercel.app/api?username=Nyotab&show_icons=true&hide_border=true&theme=tokyonight)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyotab&langs_count=5&theme=tokyonight)]()
+
