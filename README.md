@@ -33,7 +33,7 @@ It is a Website quite similar to [OpenFoodFacts](https://openfoodfacts.org) but 
 
 ### Some stats 🧾
 
-[![Nyotab github stats](https://github-readme-stats.vercel.app/api?username=Nyotab&show_icons=true&hide_border=true&theme=tokyonight)]()
+![Nyotab github stats](https://github-readme-stats.vercel.app/api?username=Nyotab&show_icons=true&hide_border=true&theme=tokyonight)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyotab&langs_count=5&theme=tokyonight&hide_border=true)]()
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyotab&langs_count=5&theme=tokyonight&hide_border=true)
 
